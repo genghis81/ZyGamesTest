@@ -1,0 +1,106 @@
+Time:2019-04-09 오전 11:26:23-Compile assembly:DynamicScripts.Case error:
+File:d:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\Case\Step1001.cs, Line:20
+Message:'PACKETID' 이름이 현재 컨텍스트에 없습니다.
+
+
+Time:2019-04-09 오전 11:26:23-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+
+Time:2019-04-09 오전 11:26:36-Trace>>Main error:System.NullReferenceException: Get CaseStep object is null, type:ZyGames.Test.App.Case.Step1001, script code:Case.Step1001.cs
+   위치: ZyGames.Test.CaseStep.Create(String formatType, String stepName) 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test\CaseStep.cs:줄 28
+   위치: ZyGames.Test.ThreadManager.RunStep(StringBuilder stepBuilder, List`1 sessionList, TaskSetting setting, String stepName, Int32 runtimes) 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test\ThreadManager.cs:줄 58
+   위치: ZyGames.Test.ThreadManager.RunTest(TaskSetting setting) 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test\ThreadManager.cs:줄 41
+   위치: ZyGames.Test.App.Program.Main(String[] args) 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\Program.cs:줄 40
+
+
+Time:2019-04-09 오전 11:27:46-Compile assembly:DynamicScripts.Case error:
+File:d:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\Case\Step1001.cs, Line:20
+Message:'PACKETID' 이름이 현재 컨텍스트에 없습니다.
+
+
+Time:2019-04-09 오전 11:27:46-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+
+Time:2019-04-09 오전 11:28:56-Compile assembly:DynamicScripts.Case error:
+File:d:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\Case\Step1001.cs, Line:20
+Message:'PACKETID' 이름이 현재 컨텍스트에 없습니다.
+
+
+Time:2019-04-09 오전 11:28:56-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+

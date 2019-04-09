@@ -1,0 +1,821 @@
+Time:2019-04-09 오후 4:15:47-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+
+Time:2019-04-09 오후 4:17:13-Trace>>16:15:53>>Step 1001 pid: request timeout.
+16:15:55>>Step 1001 pid: request timeout.
+16:15:59>>Step 1001 pid: request timeout.
+16:16:01>>Step 1001 pid: request timeout.
+16:16:03>>Step 1001 pid: request timeout.
+16:16:06>>Step 1001 pid: request timeout.
+16:16:10>>Step 1001 pid: request timeout.
+16:16:26>>Step 1001 pid: request timeout.
+16:17:08>>Step 1001 pid: request timeout.
+16:17:10>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:17:59-Trace>>16:17:14>>Step 1001 pid: request timeout.
+16:17:15>>Step 1001 pid: request timeout.
+16:17:16>>Step 1001 pid: request timeout.
+16:17:17>>Step 1001 pid: request timeout.
+16:17:18>>Step 1001 pid: request timeout.
+16:17:19>>Step 1001 pid: request timeout.
+16:17:20>>Step 1001 pid: request timeout.
+16:17:21>>Step 1001 pid: request timeout.
+16:17:22>>Step 1001 pid: request timeout.
+16:17:23>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:18:49-Trace>>16:18:04>>Step 1001 pid: request timeout.
+16:18:07>>Step 1001 pid: request timeout.
+16:18:19>>Step 1001 pid: request timeout.
+16:18:22>>Step 1001 pid: request timeout.
+16:18:23>>Step 1001 pid: request timeout.
+16:18:24>>Step 1001 pid: request timeout.
+16:18:25>>Step 1001 pid: request timeout.
+16:18:26>>Step 1001 pid: request timeout.
+16:18:27>>Step 1001 pid: request timeout.
+16:18:28>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:31-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+
+Time:2019-04-09 오후 4:48:36-Trace>>16:48:32>>Step 1001 pid: request timeout.
+16:48:35>>Step 1001 pid: request timeout.
+16:48:35>>Step 1001 pid: request timeout.
+16:48:35>>Step 1001 pid: request timeout.
+16:48:35>>Step 1001 pid: request timeout.
+16:48:35>>Step 1001 pid: request timeout.
+16:48:35>>Step 1001 pid: request timeout.
+16:48:35>>Step 1001 pid: request timeout.
+16:48:35>>Step 1001 pid: request timeout.
+16:48:35>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:42-Trace>>16:48:42>>Step 1001 pid: request timeout.
+16:48:42>>Step 1001 pid: request timeout.
+16:48:42>>Step 1001 pid: request timeout.
+16:48:42>>Step 1001 pid: request timeout.
+16:48:42>>Step 1001 pid: request timeout.
+16:48:42>>Step 1001 pid: request timeout.
+16:48:42>>Step 1001 pid: request timeout.
+16:48:42>>Step 1001 pid: request timeout.
+16:48:42>>Step 1001 pid: request timeout.
+16:48:42>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:47-Trace>>16:48:47>>Step 1001 pid: request timeout.
+16:48:47>>Step 1001 pid: request timeout.
+16:48:47>>Step 1001 pid: request timeout.
+16:48:47>>Step 1001 pid: request timeout.
+16:48:47>>Step 1001 pid: request timeout.
+16:48:47>>Step 1001 pid: request timeout.
+16:48:47>>Step 1001 pid: request timeout.
+16:48:47>>Step 1001 pid: request timeout.
+16:48:47>>Step 1001 pid: request timeout.
+16:48:47>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:48-Trace>>16:48:48>>Step 1001 pid: request timeout.
+16:48:48>>Step 1001 pid: request timeout.
+16:48:48>>Step 1001 pid: request timeout.
+16:48:48>>Step 1001 pid: request timeout.
+16:48:48>>Step 1001 pid: request timeout.
+16:48:48>>Step 1001 pid: request timeout.
+16:48:48>>Step 1001 pid: request timeout.
+16:48:48>>Step 1001 pid: request timeout.
+16:48:48>>Step 1001 pid: request timeout.
+16:48:48>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:49-Trace>>16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:49-Trace>>16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:49-Trace>>16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:49-Trace>>16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+16:48:49>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:50-Trace>>16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:50-Trace>>16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:50-Trace>>16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:48:50-Trace>>16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+16:48:50>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:49:02-Trace>>16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:49:02-Trace>>16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:49:02-Trace>>16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+16:49:02>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:49:03-Trace>>16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:49:03-Trace>>16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+16:49:03>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:51:08-Trace>>16:50:47>>Step 1001 pid: request timeout.
+16:51:08>>Step 1001 pid: request timeout.
+16:51:08>>Step 1001 pid: request timeout.
+16:51:08>>Step 1001 pid: request timeout.
+16:51:08>>Step 1001 pid: request timeout.
+16:51:08>>Step 1001 pid: request timeout.
+16:51:08>>Step 1001 pid: request timeout.
+16:51:08>>Step 1001 pid: request timeout.
+16:51:08>>Step 1001 pid: request timeout.
+16:51:08>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:51:47-Trace>>16:51:47>>Step 1001 pid: request timeout.
+16:51:47>>Step 1001 pid: request timeout.
+16:51:47>>Step 1001 pid: request timeout.
+16:51:47>>Step 1001 pid: request timeout.
+16:51:47>>Step 1001 pid: request timeout.
+16:51:47>>Step 1001 pid: request timeout.
+16:51:47>>Step 1001 pid: request timeout.
+16:51:47>>Step 1001 pid: request timeout.
+16:51:47>>Step 1001 pid: request timeout.
+16:51:47>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:52:37-Trace>>16:52:37>>Step 1001 pid: request timeout.
+16:52:37>>Step 1001 pid: request timeout.
+16:52:37>>Step 1001 pid: request timeout.
+16:52:37>>Step 1001 pid: request timeout.
+16:52:37>>Step 1001 pid: request timeout.
+16:52:37>>Step 1001 pid: request timeout.
+16:52:37>>Step 1001 pid: request timeout.
+16:52:37>>Step 1001 pid: request timeout.
+16:52:37>>Step 1001 pid: request timeout.
+16:52:37>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:52:58-Trace>>16:52:58>>Step 1001 pid: request timeout.
+16:52:58>>Step 1001 pid: request timeout.
+16:52:58>>Step 1001 pid: request timeout.
+16:52:58>>Step 1001 pid: request timeout.
+16:52:58>>Step 1001 pid: request timeout.
+16:52:58>>Step 1001 pid: request timeout.
+16:52:58>>Step 1001 pid: request timeout.
+16:52:58>>Step 1001 pid: request timeout.
+16:52:58>>Step 1001 pid: request timeout.
+16:52:58>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:53:55-Trace>>16:53:55>>Step 1001 pid: request timeout.
+16:53:55>>Step 1001 pid: request timeout.
+16:53:55>>Step 1001 pid: request timeout.
+16:53:55>>Step 1001 pid: request timeout.
+16:53:55>>Step 1001 pid: request timeout.
+16:53:55>>Step 1001 pid: request timeout.
+16:53:55>>Step 1001 pid: request timeout.
+16:53:55>>Step 1001 pid: request timeout.
+16:53:55>>Step 1001 pid: request timeout.
+16:53:55>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:54:18-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+
+Time:2019-04-09 오후 4:54:49-Trace>>16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+16:54:49>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:54:55-Trace>>16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+16:54:55>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:55:21-Trace>>16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+16:55:21>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 4:56:33-Trace>>16:56:22>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:27>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:27>>Step 1001 pid: request timeout.
+16:56:29>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:22>>Step 1001 pid: request timeout.
+16:56:32>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:27>>Step 1001 pid: request timeout.
+16:56:29>>Step 1001 pid: request timeout.
+16:56:32>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:27>>Step 1001 pid: request timeout.
+16:56:29>>Step 1001 pid: request timeout.
+16:56:32>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:29>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:29>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:29>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:29>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+16:56:33>>Step 1001 pid: request timeout.
+
+
+

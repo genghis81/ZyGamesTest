@@ -1,0 +1,395 @@
+Time:2019-04-09 오후 4:15:47-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-09 오후 4:15:47-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-09 오후 4:17:13----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	4546.053075ms
+    Min:	1779.773800ms
+    Max:	19418.379500ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:17:59----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.370663ms
+    Min:	1000.052200ms
+    Max:	1000.907100ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:18:49----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	2025.971238ms
+    Min:	1000.100300ms
+    Max:	11930.906900ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:30-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-09 오후 4:48:30-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-09 오후 4:48:36----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	143.064688ms
+    Min:	0.000900ms
+    Max:	2385.723400ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:42----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.026263ms
+    Min:	0.000900ms
+    Max:	0.207800ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:47----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.000938ms
+    Min:	0.000800ms
+    Max:	0.200100ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:48----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.011438ms
+    Min:	0.000800ms
+    Max:	0.203000ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:49----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.023263ms
+    Min:	0.000800ms
+    Max:	0.201900ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:49----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.001675ms
+    Min:	0.000800ms
+    Max:	0.203400ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:49----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.021225ms
+    Min:	0.001700ms
+    Max:	0.298400ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:49----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.086188ms
+    Min:	0.002100ms
+    Max:	0.315600ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:50----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.023000ms
+    Min:	0.000900ms
+    Max:	0.224900ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:50----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.021488ms
+    Min:	0.000800ms
+    Max:	0.245200ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:50----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.083025ms
+    Min:	0.000800ms
+    Max:	0.187800ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:48:50----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.012225ms
+    Min:	0.001900ms
+    Max:	0.208000ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:49:02----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.001563ms
+    Min:	0.000800ms
+    Max:	0.192800ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:49:02----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.019000ms
+    Min:	0.000800ms
+    Max:	0.207100ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:49:02----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.017588ms
+    Min:	0.001200ms
+    Max:	0.252200ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:49:03----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.012963ms
+    Min:	0.000800ms
+    Max:	0.201500ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:49:03----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.012088ms
+    Min:	0.002000ms
+    Max:	0.190400ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:51:08----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	736.213525ms
+    Min:	0.000800ms
+    Max:	20886.097000ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:51:47----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.001013ms
+    Min:	0.000800ms
+    Max:	0.267500ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:52:37----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.001513ms
+    Min:	0.001100ms
+    Max:	0.253000ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:52:58----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.001000ms
+    Min:	0.000800ms
+    Max:	0.201800ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:53:55----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	0.002313ms
+    Min:	0.001900ms
+    Max:	0.250900ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:54:17-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-09 오후 4:54:18-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-09 오후 4:54:49----------------------------------------------------
+ThreadNum:	10
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	100
+>>Step 1001: success:0, fail:100
+    AVE:	0.001519ms
+    Min:	0.001000ms
+    Max:	5.928800ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:54:55----------------------------------------------------
+ThreadNum:	10
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	100
+>>Step 1001: success:0, fail:100
+    AVE:	0.054960ms
+    Min:	0.001100ms
+    Max:	6.136300ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:55:21----------------------------------------------------
+ThreadNum:	10
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	100
+>>Step 1001: success:0, fail:100
+    AVE:	0.001431ms
+    Min:	0.001000ms
+    Max:	21.278400ms
+End testing.
+
+
+
+Time:2019-04-09 오후 4:56:33----------------------------------------------------
+ThreadNum:	10
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	100
+>>Step 1001: success:0, fail:100
+    AVE:	110.285969ms
+    Min:	0.002200ms
+    Max:	10533.404100ms
+End testing.
+
+
+

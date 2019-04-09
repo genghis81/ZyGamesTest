@@ -1,0 +1,114 @@
+Time:2019-04-08 오전 10:03:21-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-08 오전 10:03:21-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-08 오전 10:03:24----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1004=10
+Faild count:	0
+>>Step 1004: success:0, fail:0
+    AVE:	0.000000ms
+    Min:	0.000000ms
+    Max:	0.000000ms
+End testing.
+
+
+
+Time:2019-04-08 오전 10:26:54-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-08 오전 10:26:54-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-08 오전 10:26:57----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1004=10
+Faild count:	0
+>>Step 1004: success:0, fail:0
+    AVE:	0.000000ms
+    Min:	0.000000ms
+    Max:	0.000000ms
+End testing.
+
+
+
+Time:2019-04-08 오전 10:27:07----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1004=10
+Faild count:	0
+>>Step 1004: success:0, fail:0
+    AVE:	0.000000ms
+    Min:	0.000000ms
+    Max:	0.000000ms
+End testing.
+
+
+
+Time:2019-04-08 오전 10:27:29----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1004=10
+Faild count:	0
+>>Step 1004: success:0, fail:0
+    AVE:	0.000000ms
+    Min:	0.000000ms
+    Max:	0.000000ms
+End testing.
+
+
+
+Time:2019-04-08 오전 10:29:54-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-08 오전 10:29:54-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-08 오전 10:30:34-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-08 오전 10:30:34-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-08 오전 10:37:15-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-08 오전 10:37:15-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-08 오전 10:39:02----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1004=10
+Faild count:	0
+>>Step 1004: success:0, fail:0
+    AVE:	0.000000ms
+    Min:	0.000000ms
+    Max:	0.000000ms
+End testing.
+
+
+
+Time:2019-04-08 오전 10:39:53----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1004=10
+Faild count:	0
+>>Step 1004: success:0, fail:0
+    AVE:	0.000000ms
+    Min:	0.000000ms
+    Max:	0.000000ms
+End testing.
+
+
+
+Time:2019-04-08 오전 10:40:07-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-08 오전 10:40:07-Trace>>CSharp Case script successfully compiled.
+
+

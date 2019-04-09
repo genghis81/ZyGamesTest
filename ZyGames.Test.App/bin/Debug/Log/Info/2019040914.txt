@@ -1,0 +1,231 @@
+Time:2019-04-09 오후 2:01:18-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-09 오후 2:01:19-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-09 오후 2:02:09-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-09 오후 2:02:09-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-09 오후 2:02:37----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.835238ms
+    Min:	1000.003300ms
+    Max:	1001.916200ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:03:00----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.375375ms
+    Min:	1000.060100ms
+    Max:	1000.851300ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:04:08----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.567350ms
+    Min:	999.900300ms
+    Max:	1001.477900ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:04:18----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.429350ms
+    Min:	1000.067100ms
+    Max:	1000.968500ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:06:09----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.512913ms
+    Min:	999.650000ms
+    Max:	1001.027900ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:08:35----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.674525ms
+    Min:	1000.154700ms
+    Max:	1000.968000ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:09:37----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.487363ms
+    Min:	1000.051600ms
+    Max:	1000.867100ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:10:38----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.336513ms
+    Min:	999.329300ms
+    Max:	1000.806600ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:11:00----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.565850ms
+    Min:	1000.014300ms
+    Max:	1001.194600ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:14:14-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-09 오후 2:14:14-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-09 오후 2:14:26----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.562700ms
+    Min:	999.604900ms
+    Max:	1001.534800ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:14:45----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.477338ms
+    Min:	1000.128000ms
+    Max:	1000.917400ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:14:55----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.664100ms
+    Min:	1000.116500ms
+    Max:	1000.997500ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:16:11-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-09 오후 2:16:11-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-09 오후 2:16:22----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.486250ms
+    Min:	999.802000ms
+    Max:	1002.614200ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:19:14-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-09 오후 2:19:14-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-09 오후 2:20:20-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-09 오후 2:20:21-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-09 오후 2:20:45----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.577050ms
+    Min:	1000.006600ms
+    Max:	1001.295700ms
+End testing.
+
+
+
+Time:2019-04-09 오후 2:20:59----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1001=10
+Faild count:	10
+>>Step 1001: success:0, fail:10
+    AVE:	1000.373675ms
+    Min:	999.942500ms
+    Max:	1001.014000ms
+End testing.
+
+
+

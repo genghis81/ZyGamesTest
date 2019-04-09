@@ -1,0 +1,50 @@
+Time:2019-04-05 오후 6:01:19-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-05 오후 6:01:19-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-05 오후 6:01:35-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-05 오후 6:01:35-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-05 오후 6:02:03-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-05 오후 6:02:03-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-05 오후 6:05:23-Trace>>CSharp Model script successfully compiled.
+
+
+Time:2019-04-05 오후 6:05:23-Trace>>CSharp Case script successfully compiled.
+
+
+Time:2019-04-05 오후 6:06:49----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1004=10
+Faild count:	0
+>>Step 1004: success:0, fail:0
+    AVE:	0.000000ms
+    Min:	0.000000ms
+    Max:	0.000000ms
+End testing.
+
+
+
+Time:2019-04-05 오후 6:06:51----------------------------------------------------
+ThreadNum:	1
+Runtimes:	1
+Run steps:	1004=10
+Faild count:	0
+>>Step 1004: success:0, fail:0
+    AVE:	0.000000ms
+    Min:	0.000000ms
+    Max:	0.000000ms
+End testing.
+
+
+

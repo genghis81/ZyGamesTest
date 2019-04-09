@@ -1,0 +1,363 @@
+Time:2019-04-09 오후 2:01:19-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+
+Time:2019-04-09 오후 2:02:09-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+
+Time:2019-04-09 오후 2:02:37-Trace>>14:02:28>>Step 1001 pid: request timeout.
+14:02:29>>Step 1001 pid: request timeout.
+14:02:30>>Step 1001 pid: request timeout.
+14:02:31>>Step 1001 pid: request timeout.
+14:02:32>>Step 1001 pid: request timeout.
+14:02:33>>Step 1001 pid: request timeout.
+14:02:34>>Step 1001 pid: request timeout.
+14:02:35>>Step 1001 pid: request timeout.
+14:02:36>>Step 1001 pid: request timeout.
+14:02:37>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:03:00-Trace>>14:02:51>>Step 1001 pid: request timeout.
+14:02:52>>Step 1001 pid: request timeout.
+14:02:53>>Step 1001 pid: request timeout.
+14:02:54>>Step 1001 pid: request timeout.
+14:02:55>>Step 1001 pid: request timeout.
+14:02:56>>Step 1001 pid: request timeout.
+14:02:57>>Step 1001 pid: request timeout.
+14:02:58>>Step 1001 pid: request timeout.
+14:02:59>>Step 1001 pid: request timeout.
+14:03:00>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:04:08-Trace>>14:03:59>>Step 1001 pid: request timeout.
+14:04:00>>Step 1001 pid: request timeout.
+14:04:01>>Step 1001 pid: request timeout.
+14:04:02>>Step 1001 pid: request timeout.
+14:04:03>>Step 1001 pid: request timeout.
+14:04:04>>Step 1001 pid: request timeout.
+14:04:05>>Step 1001 pid: request timeout.
+14:04:06>>Step 1001 pid: request timeout.
+14:04:07>>Step 1001 pid: request timeout.
+14:04:08>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:04:18-Trace>>14:04:09>>Step 1001 pid: request timeout.
+14:04:10>>Step 1001 pid: request timeout.
+14:04:11>>Step 1001 pid: request timeout.
+14:04:12>>Step 1001 pid: request timeout.
+14:04:13>>Step 1001 pid: request timeout.
+14:04:14>>Step 1001 pid: request timeout.
+14:04:15>>Step 1001 pid: request timeout.
+14:04:16>>Step 1001 pid: request timeout.
+14:04:17>>Step 1001 pid: request timeout.
+14:04:18>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:06:09-Trace>>14:06:00>>Step 1001 pid: request timeout.
+14:06:01>>Step 1001 pid: request timeout.
+14:06:02>>Step 1001 pid: request timeout.
+14:06:03>>Step 1001 pid: request timeout.
+14:06:04>>Step 1001 pid: request timeout.
+14:06:05>>Step 1001 pid: request timeout.
+14:06:06>>Step 1001 pid: request timeout.
+14:06:07>>Step 1001 pid: request timeout.
+14:06:08>>Step 1001 pid: request timeout.
+14:06:09>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:08:35-Trace>>14:08:26>>Step 1001 pid: request timeout.
+14:08:27>>Step 1001 pid: request timeout.
+14:08:28>>Step 1001 pid: request timeout.
+14:08:29>>Step 1001 pid: request timeout.
+14:08:30>>Step 1001 pid: request timeout.
+14:08:31>>Step 1001 pid: request timeout.
+14:08:32>>Step 1001 pid: request timeout.
+14:08:33>>Step 1001 pid: request timeout.
+14:08:34>>Step 1001 pid: request timeout.
+14:08:35>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:09:37-Trace>>14:09:28>>Step 1001 pid: request timeout.
+14:09:29>>Step 1001 pid: request timeout.
+14:09:30>>Step 1001 pid: request timeout.
+14:09:31>>Step 1001 pid: request timeout.
+14:09:32>>Step 1001 pid: request timeout.
+14:09:33>>Step 1001 pid: request timeout.
+14:09:34>>Step 1001 pid: request timeout.
+14:09:35>>Step 1001 pid: request timeout.
+14:09:36>>Step 1001 pid: request timeout.
+14:09:37>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:10:38-Trace>>14:10:18>>Step 1001 pid: request timeout.
+14:10:30>>Step 1001 pid: request timeout.
+14:10:31>>Step 1001 pid: request timeout.
+14:10:32>>Step 1001 pid: request timeout.
+14:10:33>>Step 1001 pid: request timeout.
+14:10:34>>Step 1001 pid: request timeout.
+14:10:35>>Step 1001 pid: request timeout.
+14:10:36>>Step 1001 pid: request timeout.
+14:10:37>>Step 1001 pid: request timeout.
+14:10:38>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:11:00-Trace>>14:10:51>>Step 1001 pid: request timeout.
+14:10:52>>Step 1001 pid: request timeout.
+14:10:53>>Step 1001 pid: request timeout.
+14:10:54>>Step 1001 pid: request timeout.
+14:10:55>>Step 1001 pid: request timeout.
+14:10:56>>Step 1001 pid: request timeout.
+14:10:57>>Step 1001 pid: request timeout.
+14:10:58>>Step 1001 pid: request timeout.
+14:10:59>>Step 1001 pid: request timeout.
+14:11:00>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:14:14-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+
+Time:2019-04-09 오후 2:14:26-Trace>>14:14:17>>Step 1001 pid: request timeout.
+14:14:18>>Step 1001 pid: request timeout.
+14:14:19>>Step 1001 pid: request timeout.
+14:14:20>>Step 1001 pid: request timeout.
+14:14:21>>Step 1001 pid: request timeout.
+14:14:22>>Step 1001 pid: request timeout.
+14:14:23>>Step 1001 pid: request timeout.
+14:14:24>>Step 1001 pid: request timeout.
+14:14:25>>Step 1001 pid: request timeout.
+14:14:26>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:14:45-Trace>>14:14:36>>Step 1001 pid: request timeout.
+14:14:37>>Step 1001 pid: request timeout.
+14:14:38>>Step 1001 pid: request timeout.
+14:14:39>>Step 1001 pid: request timeout.
+14:14:40>>Step 1001 pid: request timeout.
+14:14:41>>Step 1001 pid: request timeout.
+14:14:42>>Step 1001 pid: request timeout.
+14:14:43>>Step 1001 pid: request timeout.
+14:14:44>>Step 1001 pid: request timeout.
+14:14:45>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:14:55-Trace>>14:14:46>>Step 1001 pid: request timeout.
+14:14:47>>Step 1001 pid: request timeout.
+14:14:48>>Step 1001 pid: request timeout.
+14:14:49>>Step 1001 pid: request timeout.
+14:14:50>>Step 1001 pid: request timeout.
+14:14:51>>Step 1001 pid: request timeout.
+14:14:52>>Step 1001 pid: request timeout.
+14:14:53>>Step 1001 pid: request timeout.
+14:14:54>>Step 1001 pid: request timeout.
+14:14:55>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:16:11-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+
+Time:2019-04-09 오후 2:16:22-Trace>>14:16:13>>Step 1001 pid: request timeout.
+14:16:14>>Step 1001 pid: request timeout.
+14:16:15>>Step 1001 pid: request timeout.
+14:16:16>>Step 1001 pid: request timeout.
+14:16:17>>Step 1001 pid: request timeout.
+14:16:18>>Step 1001 pid: request timeout.
+14:16:19>>Step 1001 pid: request timeout.
+14:16:20>>Step 1001 pid: request timeout.
+14:16:21>>Step 1001 pid: request timeout.
+14:16:22>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:19:14-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+
+Time:2019-04-09 오후 2:20:21-Trace>>InitScriptRuntime error:System.IO.FileNotFoundException: 파일이나 어셈블리 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1' 또는 여기에 종속되어 있는 파일이나 어셈블리 중 하나를 로드할 수 없습니다. 지정된 파일을 찾을 수 없습니다.
+파일 이름: 'IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1'
+   위치: ZyGames.Framework.Script.ScriptEngines.a(Boolean A_0)
+   위치: ZyGames.Framework.Script.ScriptEngines.c()
+
+=== 미리 바인딩된 상태 정보 ===
+로그: DisplayName = IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+ (Fully-specified)
+로그: Appbase = file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/
+로그: 초기 PrivatePath = D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\temp
+호출 어셈블리: ZyGames.Framework, Version=6.3.0.106, Culture=neutral, PublicKeyToken=null.
+===
+로그: 이 바인딩은 default 로드 컨텍스트에서 시작됩니다.
+로그: 응용 프로그램 구성 파일 D:\Work\GenghisProject\ZyGames.Test\ZyGames.Test.App\bin\Debug\ZyGames.Test.App.exe.Config을(를) 사용합니다.
+로그: 호스트 구성 파일 을(를) 사용합니다.
+로그: C:\Windows\Microsoft.NET\Framework\v4.0.30319\config\machine.config에서 컴퓨터 구성 파일을 사용합니다.
+로그: 사후 정책 참조: IronPython, Version=2.7.0.40, Culture=neutral, PublicKeyToken=7f709c5b713576e1
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.DLL을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/IronPython/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython.EXE을(를) 다운로드합니다.
+로그: 새 URL file:///D:/Work/GenghisProject/ZyGames.Test/ZyGames.Test.App/bin/Debug/temp/IronPython/IronPython.EXE을(를) 다운로드합니다.
+
+
+
+Time:2019-04-09 오후 2:20:45-Trace>>14:20:36>>Step 1001 pid: request timeout.
+14:20:37>>Step 1001 pid: request timeout.
+14:20:38>>Step 1001 pid: request timeout.
+14:20:39>>Step 1001 pid: request timeout.
+14:20:40>>Step 1001 pid: request timeout.
+14:20:41>>Step 1001 pid: request timeout.
+14:20:42>>Step 1001 pid: request timeout.
+14:20:43>>Step 1001 pid: request timeout.
+14:20:44>>Step 1001 pid: request timeout.
+14:20:45>>Step 1001 pid: request timeout.
+
+
+
+Time:2019-04-09 오후 2:20:59-Trace>>14:20:50>>Step 1001 pid: request timeout.
+14:20:51>>Step 1001 pid: request timeout.
+14:20:52>>Step 1001 pid: request timeout.
+14:20:53>>Step 1001 pid: request timeout.
+14:20:54>>Step 1001 pid: request timeout.
+14:20:55>>Step 1001 pid: request timeout.
+14:20:56>>Step 1001 pid: request timeout.
+14:20:57>>Step 1001 pid: request timeout.
+14:20:58>>Step 1001 pid: request timeout.
+14:20:59>>Step 1001 pid: request timeout.
+
+
+
