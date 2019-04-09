@@ -16,10 +16,10 @@ namespace ZyGames.Test.Net
         /// </summary>
         public static int RequestTimeout = ConfigUtils.GetSetting("Request.Timeout", 3000);
 
-        public static string Encoding(string str)
-        {
-            return HttpUtility.UrlEncode(str);
-        }
+        //public static string Encoding(string str)
+        //{
+        //    return HttpUtility.UrlEncode(str);
+        //}
 
         public static string GetSign(string param, string signKey)
         {
@@ -28,7 +28,7 @@ namespace ZyGames.Test.Net
             {
                 sign = FormsAuthentication.HashPasswordForStoringInConfigFile(param + signKey, "MD5").ToLower();
             }
-            return Encoding(string.Format("{0}&sign={1}", param, sign));
+            return HttpUtility.UrlEncode(string.Format("{0}&sign={1}", param, sign));
         }
 
         public static NetProxy Create(string remoteAddress)
